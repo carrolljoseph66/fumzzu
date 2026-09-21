@@ -1,0 +1,2 @@
+# fumzzu
+Daily digest notes
